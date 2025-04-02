@@ -22,3 +22,17 @@ EchoMind is a mental health monitoring platform that connects patients with heal
 
 1. Clone the repository:
 2. TBC
+
+###Contributors 
+- Joshua Foo
+- Law Yu Chen 
+- Kieran Voo
+- Neo Iching
+- Chiang Wen Xi
+
+
+
+
+
+
+
